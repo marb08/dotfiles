@@ -61,6 +61,8 @@ noremap <Down> <Nop>
 noremap <Left> <Nop>
 noremap <Right> <Nop>i
 
+
+
 "=======START VIM-PLUG SECTION=======
 call plug#begin('~/.vim/plugged')
 "======THEMES========================
